@@ -1,0 +1,48 @@
+	<html>
+		<head>
+			<title> Introduce of internet</title>
+			<meta charset="utf-8" />
+			<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+			<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		</head>
+		
+		<body>
+			<h1>What is internet</h1>
+				<p>The Internet (portmanteau of interconnected network) is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the inter-linked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.</p>
+				<p><a href="https://en.wikipedia.org/wiki/Internet">Learn more</a></p>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PikiWiki_Israel_32304
+					_The_Internet_Messenger_by_Buky_Schwartz.JPG/1280px-PikiWiki_Israel_32304_The_Internet_Messenger_by_Buky_Schwartz.JPG" width="400">
+				<iframe width="500" height="270" src="https://www.youtube.com/embed/Dxcc6ycZ73M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<hr>
+			<h3>History</h3>
+				<ul>
+					<li>The first workable prototype of the Internet came in the late 1960s with the creation of ARPANET, or the Advanced Research Projects Agency Network.</li>
+					<li>The technology continued to grow in the 1970s after scientists Robert Kahn and Vinton Cerf developed Transmission Control Protocol and Internet Protocol, or TCP/IP, a communications model that set standards for how data could be transmitted between multiple networks. ARPANET adopted TCP/IP on January 1, 1983, and from there researchers began to assemble the “network of networks” that became the modern Internet.</li>
+					<li>The web helped popularize the Internet among the public, and served as a crucial step in developing the vast trove of information that most of us now access on a daily basis.</li>
+					
+					
+				</ul>
+	<hr>
+			<h3>Popular internet companies</h3>
+				<table>
+					<thead>
+						<tr>
+							<th>U.S</th>
+							<th>China</th>
+							
+						</tr>
+					</thead>
+					
+					<tbody>
+							<td>Amazon       <p>Apple</p>      <p>Facebook</p>     <p>Linkedin</p>              </td>
+							<td>Alibaba      <p>Baidu</p>      <p>Tendence</p>      <p>Bytedance</p>                            </td>
+							
+							
+
+</body>
+
+
+
+
+</html>
